@@ -1,0 +1,18 @@
+Installations:
+
+client:
+1. npm i
+2. npm i react-router-dom
+3. npm install -D tailwindcss postcss autoprefixer
+4. npm i @tanstack/react-query axios
+5. npm i stream-chat stream-chat-react
+6. npm i react-select
+
+server:
+1. npm init -y
+2. npm i fastify
+3. npm i dotenv
+4. npm i --save-dev @types/node
+5. npm i --save-dev nodemon ts-node
+6. npm i @fastify/cors
+7. npm i stream-chat
